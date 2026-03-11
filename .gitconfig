@@ -127,7 +127,7 @@
 [commit]
 
 	# https://help.github.com/articles/signing-commits-using-gpg/
-	gpgsign = true
+	gpgsign = false
 
 [diff]
 
@@ -181,3 +181,7 @@
 [init]
 
 	defaultBranch = main
+
+[user]
+    name = Sangbum Choi
+    email = danielsejong55@gmail.com
